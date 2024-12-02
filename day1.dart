@@ -1,5 +1,4 @@
 import 'utils.dart';
-import 'dart:math';
 
 num getSumOfDistances(List<num> firstList, List<num> secondList) {
   final distances = <num>[];
